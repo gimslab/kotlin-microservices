@@ -1,0 +1,4 @@
+service:
+  message:
+    text: "helloyaml"
+    type: "advance"
