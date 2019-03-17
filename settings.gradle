@@ -4,4 +4,4 @@ include 'kotlin-microservices-chapter3'
 include 'kotlin-microservices-chapter4'
 include 'kotlin-microservices-chapter5'
 include 'kotlin-microservices-chapter6'
-
+include 'kotlin-microservices-chapter6-configserver'
